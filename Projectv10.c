@@ -176,7 +176,7 @@ void compose(char *usernamefile){
 
 void view_others(char *usernamefile){
 
-    char username[100], content[1000], usernamenewline[100], temp[1000];
+    char username[1000], content[1000], usernamenewline[1000], temp[1000];
     FILE *fpointer;
     int count = 1, count2, count3, index = 0, usernum, currentview;
 
@@ -340,7 +340,7 @@ void view_others(char *usernamefile){
 void view_own(char *usernamefile){
 
         int count = 1, count2 = 1, count3 = 1, index = 0, usernum, mode;
-        char content[1000], search[100];
+        char content[1000], search[1000];
         FILE *fpointer;
 
 		fpointer = fopen(usernamefile, "r");
@@ -459,7 +459,7 @@ void view_own(char *usernamefile){
 char *Sign(int mode){
 
     char *usernameptr;
-    char username[100], password[200], content[1000];
+    char username[1000], password[1000], content[1000];
     bool testuc, testlc, testdc, testlength, testspace, verify, verify2;
     int count, length;
     FILE *fpointer;
@@ -607,7 +607,7 @@ void insert(char *username, char *title, char *body, char *time){
 
 	int i=0, j=0, index=0;
 	char content[1000];
-	char copy[100][1000];
+	char copy[500][1000];
 
 	while(fgets(content, 1000, fp) != NULL){
 		strcpy(copy[i], content);
@@ -682,7 +682,7 @@ void modify(char *usernamefile, int index, char mode){
 	fp = fopen(usernamefile, "r");
 	fp2 = fopen("temp.txt", "w");
 
-	char copy[100][1000];
+	char copy[500][1000];
 	char content[1000];
 
 	int count = 1, i = 0, j = 0;
@@ -715,7 +715,7 @@ void modify(char *usernamefile, int index, char mode){
 
 	}
 	else if(mode == 'm'){
-		char title[100], body[1000], ch1, ch2;
+		char title[1000], body[1000], ch1, ch2;
 		int verify, count2;
 		do{
             printf("Enter the title: ");
