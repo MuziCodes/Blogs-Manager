@@ -2,12 +2,12 @@
 Abdullah
 Strings101
 Why scheduling is important
-By having your schedule at the top of your mind, your calendar acts as a filter against distractions. If someone comes up to you while you're working, you can ask them to come back later when you've finished a scheduled piece of work. When you know that you've a set amount of scheduled time to do something, it allows you to stay focused so you can get everything done within a specific time. If you don't, you're going to have to reschedule everything.
+By having your schedule at the top of your mind, your calendar acts as a filter against distractions.~If someone comes up to you while you're working, you can ask them to come back later when you've finished a scheduled piece of work.~When you know that you've a set amount of scheduled time to do something, it allows you to stay focused so you can get everything done within a specific time.~If you don't, you're going to have to reschedule everything.
 Fri Dec 09 01:07:47 2022
-Views: 0
+Views: 1
 
 Advantages of GitHub
 1. It makes it easy to contribute to your open source projects~2. Documentation~3. Showcase your work~4. Markdown~5. GitHub is a repository~6. Integration options
 Fri Dec 09 01:05:59 2022
-Views: 0
+Views: 5
 

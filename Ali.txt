@@ -2,9 +2,9 @@
 Ali
 Ali2003
 Importance of sports
-Sports involve physical activity of the body. Due to this physical activity, blood vessels remain clean. Sports reduces the amount of cholesterol and fats in the body. This happens because of the increase of flexibility of the wall of the blood vessels. The flexibility increases due to physical exertion, which is the result of Sports.~Furthermore, the sugar level in blood also gets lower thanks to Sports. The sugar certainly does not accumulate in the blood due to physical activity.
+Sports involve physical activity of the body. Due to this physical activity, blood vessels remain clean.~Sports reduces the amount of cholesterol and fats in the body. This happens because of the increase of flexibility of the wall of the blood vessels. The flexibility increases due to physical exertion, which is the result of Sports.~Furthermore, the sugar level in blood also gets lower thanks to Sports. The sugar certainly does not accumulate in the blood due to physical activity.
 Fri Dec 09 01:03:10 2022
-Views: 0
+Views: 2
 
 Logic building
 Logic teaches us the techniques and methods for testing the correctness of different kinds of reasoning. It helps us to detect errors in reasoning by examining and analysing the various common fallacies in reasoning.~ Try solving puzzles such as Sudoku to develop your logic and thinking ability because programming is nothing but solving complex problems with the help of good logic.
@@ -12,7 +12,7 @@ Fri Dec 09 01:02:39 2022
 Views: 0
 
 Mathematics
-Math teachers can make you love math or hate math. If you have a love for math or even a basic understanding and respect, you will be more likely to want to go into a career field that uses math. On the other side of the equation, if you hate math, you will steer away from any career field that uses math, which eliminates quite a few options. 
+Math teachers can make you love math or hate math.~If you have a love for math or even a basic understanding and respect, you will be more likely to want to go into a career field that uses math. On the other side of the equation, if you hate math, you will steer away from any career field that uses math, which eliminates quite a few options. 
 Fri Dec 09 01:00:52 2022
-Views: 0
+Views: 1
 
